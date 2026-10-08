@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+*.py[cod]
+models/saved_models/*.joblib
+models/saved_models/*.json
+evaluation/evaluation_results.json
+.DS_Store
